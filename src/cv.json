@@ -21,16 +21,48 @@
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "Exeditec",
+    "position": "Desarrolador",
+    "url": "https://exeditec.com/",
+    "startDate": "2022-06-01",    
+    "summary": "Trabajo como programador dedicado a desarrollar y mantener aplicaciones informáticas para diversas plataformas, como dispositivos móviles, web o de escritorio, planifico la arquitectura de la aplicación, escribo código limpio y eficiente, realizo pruebas exhaustivas y resuelvo problemas técnicos. ",
     "highlights": [
       "Started the company"
     ]
-  }],
+  },
+{
+    "name": "LABIOFAM",
+    "position": "Esp. principal de tecnologías",
+    "url": "https://www.labiofam.cu/",
+    "startDate": "2010-02-01",    
+    "summary": "Lidero el equipo de programadores de la entidad y creamos varias aplicaciones para diferentes plataformas: móviles, desktop y web que contribuyeron a mejorar los distintos procesos que se informatizaron y escalamos los servicios para soportar la carga de todas las peticiones hechas desde cualquier parte del país.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Escuela Especial José Briñas",
+    "position": "Profesor de computación",
+    "url": "-",
+    "startDate": "2008-09-01",
+    "endDate": "2009-08-31",
+    "summary": "Especializado en enseñar conceptos fundamentales y avanzados de informática y tecnología a estudiantes de diferentes niveles académicos. Diseñar planes de estudio, impartir clases teóricas y prácticas, evaluar el progreso de los estudiantes y proporcionar retroalimentación constructiva.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Escuela Primaria Felipe Poey",
+    "position": "Profesor de computación",
+    "url": "-",
+    "startDate": "2003-09-01",
+    "endDate": "2008-06-30",
+    "summary": "Lidré un equipo de profesores de computación y administré las redes del entidad. Entre las funciones que tenía estaban: Diseñar planes de estudio, impartir clases teóricas y prácticas, evaluar el progreso de los estudiantes y proporcionar retroalimentación constructiva.",
+    "highlights": [
+      "Started the company"
+    ]
+  }
+],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
